@@ -1,0 +1,1 @@
+function say(){console.log(123),alert(123)}var a=0,b=1,b=1,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,b=2,box=document.querySelector("h1");console.log(box),box.onclick=function(){say()};
